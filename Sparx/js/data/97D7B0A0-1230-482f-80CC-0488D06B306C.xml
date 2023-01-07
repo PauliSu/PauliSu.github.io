@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0:1", "", "Motvaatio", "EARoot/EA1.htm", "175.png", "1", "0", "", "Logical diagram0","{EFC1FFC5-F247-408f-A0A1-52F2C39E28C8}");
+tocTab[tocTab.length] = new Array("0:2", "", "«ArchiMate_Capability» Capability1", "EARoot/EA4.htm", "9F0DDA8A-5_ArchiMate_Capability.png", "E8", "0", "", "Class0","{10EFDB68-0E39-49f1-932C-C69E2AB72EEC}");
+tocTab[tocTab.length] = new Array("0:3", "", "«ArchiMate_Goal» Goal1", "EARoot/EA5.htm", "9F0DDA8A-5_ArchiMate_Goal.png", "E2", "0", "", "Class0","{A74EAF9C-24B4-44db-ADC9-CA77E3FD9C47}");
+tocTab[tocTab.length] = new Array("0:4", "", "«ArchiMate_Principle» Principle1", "EARoot/EA6.htm", "9F0DDA8A-5_ArchiMate_Principle.png", "E4", "0", "", "Class0","{F5F30E2E-61FB-4071-B82C-6A3D3DF50CE7}");
+tocTab[tocTab.length] = new Array("0:5", "", "«ArchiMate_Principle» Principle2", "EARoot/EA7.htm", "9F0DDA8A-5_ArchiMate_Principle.png", "E5", "0", "", "Class0","{9374324B-B413-40e9-8D39-816EB013E7E4}");
+tocTab[tocTab.length] = new Array("0:6", "", "«ArchiMate_Principle» Principle3", "EARoot/EA8.htm", "9F0DDA8A-5_ArchiMate_Principle.png", "E6", "0", "", "Class0","{0F6FA6F3-B844-408d-BD82-4211AFA26355}");
+tocTab[tocTab.length] = new Array("0:7", "", "«ArchiMate_Requirement» Requirement1", "EARoot/EA9.htm", "9F0DDA8A-5_ArchiMate_Requirement.png", "E3", "0", "", "Class0","{12342C92-E872-450a-8322-C0CE9D2BAD62}");
+tocTab[tocTab.length] = new Array("0:8", "", "«ArchiMate_Resource» Resource1", "EARoot/EA10.htm", "9F0DDA8A-5_ArchiMate_Resource.png", "E7", "0", "", "Class0","{FC0BA37C-60A4-445c-BC25-1B405BF553CE}");
+tocTab[tocTab.length] = new Array("0:9", "", "«ArchiMate_Stakeholder» Stakeholder1", "EARoot/EA11.htm", "9F0DDA8A-5_ArchiMate_Stakeholder.png", "E9", "0", "", "Class0","{608A743C-C648-4bde-B6E1-51419B0789C9}");
