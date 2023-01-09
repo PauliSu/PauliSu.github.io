@@ -1,0 +1,124 @@
+<Canvas Height="793.7" Name="Workspace" Width="1122.5" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<!-- Page Sivu 1 -->
+	<Canvas Width="1122.5" Height="793.7" Name="D">
+		<Canvas.Background>
+			<SolidColorBrush Color="#FFFFFFFF"/>
+		</Canvas.Background>
+		<Canvas Tag="_1" Name="_1" RenderTransform="1, 0, 0, 1, 143.622036, -491.338557">
+			<Canvas Name="_2">
+				<Path Name="_2_G0" StrokeThickness="0.5" StrokeDashCap="Square" StrokeEndLineCap="Square"
+						StrokeStartLineCap="Square" Data="F0 M0 782.36 A56.6929 11.3386 -180 1 0 113.39 782.36 L113.39 691.65 L0 691.65 L0 782.36 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#FFC7C8C8"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#FF4672C4"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Ellipse Canvas.Top="680.31" Height="22.677" Name="_1_G0_P0" Width="113.39" StrokeThickness="0.5"
+					StrokeDashCap="Square" StrokeEndLineCap="Square" StrokeStartLineCap="Square">
+				<Ellipse.Stroke>
+					<SolidColorBrush Color="#FFC7C8C8"/>
+				</Ellipse.Stroke>
+				<Ellipse.Fill>
+					<SolidColorBrush Color="#FF4672C4"/>
+				</Ellipse.Fill>
+			</Ellipse>
+		</Canvas>
+		<Canvas Tag="_3" Name="_3" RenderTransform="1, 0, 0, 1, 362.83463, -491.338557">
+			<Rectangle Canvas.Left="-0.16667" Canvas.Top="680.15" Height="113.72" Name="_3_G0_P0" Width="151.51"
+					StrokeThickness="0.5" StrokeDashCap="Square" StrokeEndLineCap="Square" StrokeStartLineCap="Square">
+				<Rectangle.Stroke>
+					<SolidColorBrush Color="#FFC7C8C8"/>
+				</Rectangle.Stroke>
+				<Rectangle.Fill>
+					<SolidColorBrush Color="#FF4672C4"/>
+				</Rectangle.Fill>
+			</Rectangle>
+		</Canvas>
+		<Canvas Tag="_4" Name="_4" RenderTransform="1, 0, 0, 1, 612.283434, -589.606274">
+			<Canvas Name="_5">
+				<Path Name="_5_G0" StrokeThickness="0.5" StrokeDashCap="Square" StrokeEndLineCap="Square"
+						StrokeStartLineCap="Square" Data="F0 M0 782.36 A56.6929 11.3386 -180 1 0 113.39 782.36 L113.39 691.65 L0 691.65 L0 782.36 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#FFC7C8C8"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#FF4672C4"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Ellipse Canvas.Top="680.31" Height="22.677" Name="_4_G0_P0" Width="113.39" StrokeThickness="0.5"
+					StrokeDashCap="Square" StrokeEndLineCap="Square" StrokeStartLineCap="Square">
+				<Ellipse.Stroke>
+					<SolidColorBrush Color="#FFC7C8C8"/>
+				</Ellipse.Stroke>
+				<Ellipse.Fill>
+					<SolidColorBrush Color="#FF4672C4"/>
+				</Ellipse.Fill>
+			</Ellipse>
+		</Canvas>
+		<Canvas Tag="_6" Name="_6" RenderTransform="1, 0, 0, 1, 612.283434, -447.873991">
+			<Canvas Name="_7">
+				<Path Name="_7_G0" StrokeThickness="0.5" StrokeDashCap="Square" StrokeEndLineCap="Square"
+						StrokeStartLineCap="Square" Data="F0 M0 782.36 A56.6929 11.3386 -180 1 0 113.39 782.36 L113.39 691.65 L0 691.65 L0 782.36 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#FFC7C8C8"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#FF4672C4"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Ellipse Canvas.Top="680.31" Height="22.677" Name="_6_G0_P0" Width="113.39" StrokeThickness="0.5"
+					StrokeDashCap="Square" StrokeEndLineCap="Square" StrokeStartLineCap="Square">
+				<Ellipse.Stroke>
+					<SolidColorBrush Color="#FFC7C8C8"/>
+				</Ellipse.Stroke>
+				<Ellipse.Fill>
+					<SolidColorBrush Color="#FF4672C4"/>
+				</Ellipse.Fill>
+			</Ellipse>
+		</Canvas>
+		<Canvas Tag="_8" Name="_8" RenderTransform="1, 0, 0, 1, 200.31495, -491.338557">
+			<Path Name="_8_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 793.7 L0 810.6 L238.11 810.6 L238.11 746.39">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF4672C4"/>
+				</Path.Stroke>
+			</Path>
+			<Path Name="_8_G0_line__MrkrEnd" RenderTransform="4.693333, 0, 0, -4.693333, 238.110232, 737.007874" Data="M 1 -2 L 0 0 L -1 -2 L 1 -2 ">
+				<Path.Fill>
+					<SolidColorBrush Color="#FF4672C4"/>
+				</Path.Fill>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_9" Name="_9" RenderTransform="1, 0, 0, 1, 438.425181, -604.724384">
+			<Path Name="_9_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 793.7 L0 752.13 L164.47 752.13">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF4672C4"/>
+				</Path.Stroke>
+			</Path>
+			<Path Name="_9_G0_line__MrkrEnd" RenderTransform="0, 4.693333, 4.693333, 0, 173.858252, 752.125984" Data="M 1 -2 L 0 0 L -1 -2 L 1 -2 ">
+				<Path.Fill>
+					<SolidColorBrush Color="#FF4672C4"/>
+				</Path.Fill>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_10" Name="_10" RenderTransform="1, 0, 0, 1, 514.015733, -548.03147">
+			<Path Name="_10_G0_line" StrokeThickness="1.3333" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Round"
+					StrokeStartLineCap="Round" Data="F0 M0 793.7 L16.9 793.7 L16.9 837.17 L88.88 837.17">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF4672C4"/>
+				</Path.Stroke>
+			</Path>
+			<Path Name="_10_G0_line__MrkrEnd" RenderTransform="0, 4.693333, 4.693333, 0, 98.267701, 837.165354" Data="M 1 -2 L 0 0 L -1 -2 L 1 -2 ">
+				<Path.Fill>
+					<SolidColorBrush Color="#FF4672C4"/>
+				</Path.Fill>
+			</Path>
+		</Canvas>
+	</Canvas>
+</Canvas>

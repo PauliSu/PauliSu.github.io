@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Sivu 1" NameU="Page-1">
+			<PageProps>
+				<PageScale Unit="MM">0.039370078740157</PageScale>
+				<DrawingScale Unit="MM">0.039370078740157</DrawingScale>
+			</PageProps>
+			<Layer IX="0">
+				<Name>Yhdistin</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="1" UniqueID="{2B269006-A0B2-4281-9889-82A3574C2B15}" Name="Lieriö" NameU="Can" Master="2">
+					<XForm>
+						<PinX Unit="MM">2.086614058793073</PinX>
+						<PinY Unit="MM">5.708661148063369</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{8B4076D4-707D-4270-94FB-E0B682F4B652}" Name="Suorakulmio" NameU="Rectangle" Master="4">
+					<XForm>
+						<PinX Unit="MM">4.566928972302588</PinX>
+						<PinY Unit="MM">5.708661148063369</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{D3D73737-1FE9-4321-9385-958EB0BE2CF3}" Name="Lieriö.4" NameU="Can.4" Master="2">
+					<XForm>
+						<PinX Unit="MM">6.968503613896515</PinX>
+						<PinY Unit="MM">6.732283202038950</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{51C359E7-9126-4F5F-AEFF-28F965F56D1F}" Name="Lieriö.6" NameU="Can.6" Master="2">
+					<XForm>
+						<PinX Unit="MM">6.968503613896515</PinX>
+						<PinY Unit="MM">5.255905249283044</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="8" UniqueID="{5D2A3F1A-A87D-4DE4-991F-DE2FC45408C4}" Name="Dynaaminen yhdistin" NameU="Dynamic connector" Master="5">
+					<XForm>
+						<PinX Unit="MM">3.326771515547831</PinX>
+						<PinY Unit="MM">5.413385557512187</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="9" UniqueID="{5FAF96E8-5A7C-4DA0-A131-0DD484D1B71F}" Name="Dynaaminen yhdistin.9" NameU="Dynamic connector.9" Master="5">
+					<XForm>
+						<PinX Unit="MM">5.472440702548370</PinX>
+						<PinY Unit="MM">6.515747765602340</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="10" UniqueID="{293AED4C-7466-4E54-9D7D-B51E30D2DB2C}" Name="Dynaaminen yhdistin.10" NameU="Dynamic connector.10" Master="5">
+					<XForm>
+						<PinX Unit="MM">5.866141489949945</PinX>
+						<PinY Unit="MM">5.482283198673207</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>
